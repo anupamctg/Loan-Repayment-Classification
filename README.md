@@ -1,4 +1,4 @@
-# Loan-Repayment-Cassification
+# Loan-Repayment-Classification
 Comparative classification of loan repayment outcomes using KNN, Decision Tree, SVM and Logistic Regression.
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
